@@ -1,4 +1,4 @@
-# Base64Viewer
+# base64-viewer
 
 It is a powerful tool that primarily offers two core features:
 
